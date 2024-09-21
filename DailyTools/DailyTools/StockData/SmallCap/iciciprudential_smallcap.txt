@@ -1,0 +1,92 @@
+﻿Nippon Life India Asset Management Ltd.	Financial	3.2%	249.21 Crs	--	--	--
+Grindwell Norton Ltd.	Metals & Mining	3.02%	235.56 Crs	--	--	--
+Rolex Rings Ltd	Capital Goods	2.6%	202.54 Crs	2.98%	3.19%	4.01%
+Brigade Enterprises Ltd.	Construction	2.59%	201.6 Crs	1.80%	1.98%	1.61%
+Larsen & Toubro Ltd.	Construction	2.54%	198.07 Crs	--	--	--
+Cyient Ltd.	Technology	2.4%	186.94 Crs	4.22%	4.51%	2.73%
+Cummins India Ltd.	Capital Goods	2.18%	169.68 Crs	--	--	--
+TVS Holdings Ltd.	Automobile	2.1%	163.37 Crs	--	--	--
+Gujarat State Petronet Ltd.	Energy	2.01%	156.37 Crs	--	--	--
+Merck Ltd.	Healthcare	1.92%	149.85 Crs	--	--	--
+Ultratech Cement Ltd.	Materials	1.91%	148.5 Crs	--	--	--
+Maruti Suzuki India Ltd.	Automobile	1.77%	138.07 Crs	--	--	--
+Kesoram Industries Ltd.	Materials	1.74%	135.31 Crs	--	--	--
+PNC Infratech Ltd.	Construction	1.72%	134.03 Crs	1.96%	2.08%	2.17%
+Kalpataru Projects International Ltd.	Capital Goods	1.68%	131 Crs	1.13%	0.38%	0.39%
+Gillette India Ltd.	Consumer Staples	1.6%	124.86 Crs	--	--	--
+Arvind Fashions Ltd.	Textiles	1.5%	116.66 Crs	1.98%	2.22%	3.19%
+TD Power Systems Ltd.	Capital Goods	1.49%	115.81 Crs	1.26%	--	--
+Gujarat Narmada Valley Fertilizers & Chemicals Ltd.	Chemicals	1.44%	112.19 Crs	--	--	--
+Orient Electric Ltd.	Consumer Discretionary	1.42%	110.88 Crs	1.75%	0.87%	1.21%
+Gateway Distriparks Ltd.	Services	1.41%	109.61 Crs	1.38%	1.45%	1.90%
+Schaeffler India Ltd.	Capital Goods	1.37%	106.42 Crs	--	--	--
+Carborundum Universal Ltd.	Metals & Mining	1.36%	105.9 Crs	--	--	--
+Pfizer Ltd.	Healthcare	1.35%	105.21 Crs	--	--	--
+Birla Corporation Ltd.	Materials	1.29%	100.4 Crs	1.26%	1.22%	1.41%
+Gujarat Pipavav Port Ltd.	Services	1.24%	96.32 Crs	0.51%	0.74%	0.76%
+Oberoi Realty Ltd.	Construction	1.22%	95.3 Crs	--	--	--
+CIE Automotive India Ltd.	Metals & Mining	1.22%	94.75 Crs	--	--	--
+Jyothy Labs Ltd.	Consumer Staples	1.19%	92.9 Crs	1.64%	1.32%	1.54%
+CMS Info Systems Ltd.	Services	1.14%	88.72 Crs	1.59%	1.75%	1.59%
+Hero Motocorp Ltd.	Automobile	1.12%	87.03 Crs	--	--	--
+Computer Age Management Services Ltd.	Services	1.11%	86.24 Crs	--	--	--
+Mold-Tek Packaging Ltd.	Materials	1.09%	85.26 Crs	1.71%	2.10%	2.38%
+EIH Ltd.	Services	1.07%	83.28 Crs	0.73%	0.85%	0.94%
+Birlasoft Ltd.	Technology	1.05%	81.71 Crs	1.05%	1.67%	1.91%
+Gujarat Alkalies And Chemicals Ltd.	Chemicals	1.04%	81.31 Crs	--	--	--
+Sudarshan Chemical Industries Ltd.	Chemicals	1.03%	80.25 Crs	1.27%	1.36%	1.39%
+Galaxy Surfactants Ltd.	Chemicals	1.01%	78.43 Crs	--	--	--
+Nifty 50	Financial	1.0%	--	--	--	--
+Astrazeneca Pharma India Ltd.	Healthcare	0.98%	76.69 Crs	--	--	--
+SKF India Ltd.	Capital Goods	0.96%	75.15 Crs	--	--	--
+FDC Ltd.	Healthcare	0.96%	74.5 Crs	0.91%	--	--
+JM Financial Ltd.	Financial	0.96%	74.52 Crs	--	--	--
+JK Lakshmi Cement Ltd.	Materials	0.94%	73.59 Crs	--	--	--
+Cholamandalam Financial Holdings Ltd.	Financial	0.93%	72.41 Crs	2.42%	1.98%	2.08%
+Tamil Nadu Newsprint & Papers Ltd.	Consumer Staples	0.91%	71.12 Crs	--	--	--
+V-Mart Retail Ltd.	Services	0.8%	62.29 Crs	2.37%	1.94%	3.09%
+Windlas Biotech Ltd.	Healthcare	0.78%	60.82 Crs	0.57%	0.56%	0.55%
+Gujarat Gas Ltd.	Energy	0.76%	59.44 Crs	--	--	--
+Multi Commodity Exchange Of India Ltd.	Services	0.74%	57.48 Crs	2.34%	2.55%	3.44%
+V.S.T. Tillers Tractors Ltd.	Automobile	0.73%	56.54 Crs	0.99%	1.03%	1.06%
+Pricol Ltd.	Automobile	0.73%	57.22 Crs	--	--	--
+Sagar Cements Ltd.	Materials	0.72%	55.8 Crs	0.98%	1.16%	--
+Firstsource Solutions Ltd.	Services	0.69%	54.09 Crs	--	0.10%	--
+360 One Wam Ltd	Financial	0.69%	54.11 Crs	--	--	--
+Indiamart Intermesh Ltd.	Services	0.66%	51.36 Crs	--	--	--
+Mangalore Refinery And Petrochemicals Ltd.	Energy	0.66%	51.49 Crs	--	--	--
+Heidelberg Cement India Ltd.	Materials	0.65%	50.52 Crs	--	--	--
+BASF India Ltd.	Chemicals	0.62%	47.95 Crs	--	--	--
+Nuvoco Vistas Corporation Ltd.	Materials	0.61%	47.91 Crs	--	--	--
+Sundram Fasteners Ltd.	Capital Goods	0.61%	47.16 Crs	1.05%	1.57%	1.92%
+Atul Ltd.	Chemicals	0.6%	46.7 Crs	--	--	--
+United Breweries Ltd.	Consumer Staples	0.59%	45.83 Crs	--	--	--
+Timken India Ltd.	Capital Goods	0.59%	45.76 Crs	--	--	--
+Divgi TorqTransfer Systems Ltd.	Automobile	0.57%	44.26 Crs	0.87%	0.86%	--
+Andhra Paper Ltd.	Consumer Staples	0.57%	44.29 Crs	--	--	--
+Star Health and Allied Insurance Company Ltd.	Insurance	0.56%	43.53 Crs	--	--	--
+Bharti Airtel Ltd.	Communication	0.53%	41.07 Crs	--	--	--
+Camlin Fine Sciences Ltd.	Chemicals	0.52%	40.48 Crs	1.21%	1.73%	1.80%
+Rain Industries Ltd.	Chemicals	0.52%	40.24 Crs	--	--	--
+Indoco Remedies Ltd.	Healthcare	0.51%	39.97 Crs	0.86%	1.14%	1.43%
+Whirlpool Of India Ltd.	Consumer Discretionary	0.5%	39.28 Crs	--	--	--
+Sansera Engineering Ltd.	Automobile	0.49%	38.35 Crs	1.45%	--	--
+Matrimony.Com Ltd.	Services	0.48%	37.6 Crs	0.48%	0.50%	0.67%
+Nirlon Ltd.	Construction	0.44%	34.09 Crs	--	--	--
+Universal Cables Ltd.	Capital Goods	0.4%	31.05 Crs	--	--	--
+Tatva Chintan Pharma Chem Ltd.	Chemicals	0.38%	29.86 Crs	--	--	--
+Can Fin Homes Ltd.	Financial	0.37%	29.19 Crs	--	--	--
+Gulf Oil Lubricants India Ltd.	Chemicals	0.35%	27.01 Crs	--	--	--
+EPL Ltd.	Materials	0.31%	24.38 Crs	3.21%	3.32%	0.98%
+Supreme Petrochem Ltd.	Materials	0.31%	24.27 Crs	0.47%	--	--
+UTI Asset Management Company Ltd.	Financial	0.29%	22.95 Crs	--	--	--
+Astec Lifesciences Ltd.	Chemicals	0.29%	22.41 Crs	0.84%	0.84%	1.10%
+Godrej Agrovet Ltd.	Consumer Staples	0.29%	22.94 Crs	--	--	--
+GHCL Ltd.	Chemicals	0.28%	21.54 Crs	--	--	--
+Navin Fluorine International Ltd.	Chemicals	0.25%	19.24 Crs	--	--	--
+Aditya Birla Sun Life AMC Ltd.	Financial	0.25%	19.35 Crs	--	--	--
+Affle (India) Ltd.	Technology	0.24%	18.54 Crs	--	--	--
+Ingersoll-Rand (India) Ltd.	Capital Goods	0.19%	14.58 Crs	--	--	--
+NCC Ltd.	Construction	0.17%	13.52 Crs	--	--	--
+ICICI Securities Ltd.	Financial	0.05%	3.61 Crs	--	--	--
+AIA Engineering Ltd.	Metals & Mining	0.01%	83.75 Lacs	--	--	--

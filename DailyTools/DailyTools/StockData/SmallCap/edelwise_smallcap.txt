@@ -1,0 +1,72 @@
+﻿Kei Industries Ltd.	Capital Goods	3.21%	109.69 Crs	2.87%	2.98%	2.97%
+UNO Minda Ltd.	Automobile	2.66%	91.14 Crs	1.91%	1.08%	1.30%
+JB Chemicals & Pharmaceuticals Ltd.	Healthcare	2.63%	90.05 Crs	2.78%	3.14%	3.40%
+Kirloskar Pneumatic Company Ltd.	Capital Goods	2.27%	77.69 Crs	--	--	--
+Brigade Enterprises Ltd.	Construction	2.25%	77.03 Crs	1.55%	1.75%	2.04%
+Ajanta Pharma Ltd.	Healthcare	2.22%	75.81 Crs	2.46%	1.17%	--
+APL Apollo Tubes Ltd.	Metals & Mining	2.16%	73.77 Crs	3.51%	1.42%	1.50%
+Westlife Foodworld Ltd.	Services	2.07%	70.87 Crs	3.34%	3.62%	3.20%
+Voltas Ltd.	Consumer Discretionary	2.05%	70.07 Crs	--	--	--
+Indian Bank	Financial	2.05%	70.14 Crs	1.77%	1.68%	1.54%
+Jubilant Ingrevia Ltd.	Chemicals	1.91%	65.29 Crs	--	--	--
+Birlasoft Ltd.	Technology	1.89%	64.75 Crs	2.55%	1.66%	1.09%
+Ahluwalia Contracts (India) Ltd.	Construction	1.85%	63.38 Crs	1.49%	1.12%	0.50%
+Can Fin Homes Ltd.	Financial	1.79%	61.17 Crs	1.73%	2.72%	2.05%
+Karur Vysya Bank Ltd.	Financial	1.79%	61.38 Crs	--	--	--
+The Phoenix Mills Ltd.	Construction	1.76%	60.21 Crs	1.10%	1.22%	1.41%
+Bharat Dynamics Ltd.	Capital Goods	1.68%	57.52 Crs	0.91%	--	--
+The Federal Bank Ltd.	Financial	1.68%	57.39 Crs	1.92%	2.12%	2.20%
+Dixon Technologies (India) Ltd.	Capital Goods	1.62%	55.34 Crs	1.01%	0.95%	0.59%
+PNC Infratech Ltd.	Construction	1.58%	54.12 Crs	1.69%	1.31%	1.23%
+Bikaji Foods International Ltd.	Consumer Staples	1.53%	52.22 Crs	1.88%	1.93%	--
+Voltamp Transformers Ltd.	Capital Goods	1.5%	51.35 Crs	0.98%	0.84%	1.15%
+Triveni Turbine Ltd.	Construction	1.48%	50.66 Crs	--	--	--
+Century Plyboards (India) Ltd.	Materials	1.45%	49.54 Crs	2.23%	2.35%	1.89%
+Zensar Technologies Ltd.	Technology	1.4%	47.93 Crs	--	--	--
+Multi Commodity Exchange Of India Ltd.	Services	1.4%	47.86 Crs	0.67%	0.75%	0.96%
+Krishna Institute of Medical Sciences Ltd	Healthcare	1.39%	47.7 Crs	1.52%	--	--
+Tejas Networks Ltd.	Communication	1.37%	46.97 Crs	0.80%	0.85%	1.04%
+Emami Ltd.	Consumer Staples	1.37%	46.87 Crs	0.79%	0.85%	1.26%
+Dodla Dairy Ltd	Consumer Staples	1.35%	46.15 Crs	--	--	--
+TeamLease Services Ltd.	Services	1.34%	45.76 Crs	0.60%	0.72%	1.16%
+Arvind Fashions Ltd.	Textiles	1.33%	45.36 Crs	--	--	--
+Cholamandalam Financial Holdings Ltd.	Financial	1.31%	44.75 Crs	--	--	0.42%
+Equitas Small Finance Bank Ltd.	Financial	1.3%	44.63 Crs	2.01%	0.89%	--
+Persistent Systems Ltd.	Technology	1.3%	44.62 Crs	1.66%	2.21%	2.01%
+KEC International Ltd.	Capital Goods	1.3%	44.49 Crs	1.49%	1.43%	1.04%
+Ratnamani Metals & Tubes Ltd.	Metals & Mining	1.27%	43.46 Crs	1.59%	1.70%	1.90%
+Cummins India Ltd.	Capital Goods	1.26%	42.97 Crs	0.95%	1.02%	1.59%
+Home First Finance Company India Ltd.	Financial	1.25%	42.81 Crs	--	--	--
+Radico Khaitan Ltd.	Consumer Staples	1.21%	41.35 Crs	1.43%	--	--
+RHI Magnesita India Ltd.	Capital Goods	1.15%	39.22 Crs	0.93%	1.22%	1.44%
+Concord Biotech Ltd.	Healthcare	1.13%	38.74 Crs	--	--	--
+Fortis Healthcare Ltd.	Healthcare	1.11%	37.9 Crs	--	--	--
+Minda Corporation Ltd.	Automobile	1.1%	37.69 Crs	1.05%	1.28%	--
+Spandana Sphoorty Financial Ltd.	Financial	1.09%	37.18 Crs	--	--	--
+JK Lakshmi Cement Ltd.	Materials	1.09%	37.21 Crs	1.02%	1.73%	1.43%
+BSE Ltd.	Services	1.06%	36.4 Crs	--	--	--
+RateGain Travel Technologies Ltd.	Technology	1.02%	34.98 Crs	1.29%	1.32%	0.24%
+K.P.R. Mill Ltd.	Textiles	1.0%	34.23 Crs	1.13%	1.41%	1.52%
+Action Construction Equipment Ltd.	Capital Goods	1.0%	34.19 Crs	1.48%	1.14%	0.98%
+Avalon Technologies Ltd.	Capital Goods	0.99%	33.88 Crs	0.95%	--	--
+City Union Bank Ltd.	Financial	0.97%	33.26 Crs	1.21%	1.71%	2.37%
+Mold-Tek Packaging Ltd.	Materials	0.97%	33.08 Crs	1.41%	1.77%	1.97%
+Power Mech Projects Ltd.	Construction	0.96%	32.68 Crs	--	--	--
+V-Mart Retail Ltd.	Services	0.92%	31.61 Crs	1.44%	1.56%	2.10%
+Metro Brands Ltd.	Consumer Discretionary	0.91%	31.01 Crs	1.32%	1.46%	--
+Rolex Rings Ltd	Capital Goods	0.89%	30.4 Crs	1.34%	0.58%	0.52%
+KNR Constructions Ltd.	Construction	0.89%	30.37 Crs	0.85%	1.09%	1.07%
+Garware Technical Fibres Ltd.	Textiles	0.88%	29.94 Crs	1.12%	0.93%	1.12%
+Carborundum Universal Ltd.	Metals & Mining	0.87%	29.9 Crs	1.63%	1.92%	1.09%
+Jamna Auto Industries Ltd.	Automobile	0.87%	29.72 Crs	1.19%	1.45%	1.33%
+Suven Pharmaceuticals Ltd.	Healthcare	0.85%	29.25 Crs	0.96%	1.21%	0.87%
+Dalmia Bharat Ltd.	Materials	0.84%	28.87 Crs	1.00%	0.99%	0.92%
+GMM Pfaudler Ltd.	Capital Goods	0.79%	27.02 Crs	1.16%	1.55%	2.26%
+CSB Bank Ltd.	Financial	0.77%	26.5 Crs	0.79%	0.98%	0.93%
+Max Financial Services Ltd.	Financial	0.76%	25.9 Crs	--	--	--
+Cera Sanitaryware Ltd.	Materials	0.75%	25.81 Crs	--	--	--
+Mahindra Logistics Ltd.	Services	0.71%	24.43 Crs	0.84%	0.76%	1.07%
+Praj Industries Ltd.	Capital Goods	0.71%	24.35 Crs	1.22%	1.34%	1.82%
+Sona BLW Precision Forgings Ltd.	Automobile	0.65%	22.23 Crs	0.91%	1.01%	--
+Gateway Distriparks Ltd.	Services	0.57%	19.62 Crs	0.73%	0.79%	1.05%
+NOCIL Ltd.	Materials	0.57%	19.54 Crs	0.79%	1.02%	1.36%

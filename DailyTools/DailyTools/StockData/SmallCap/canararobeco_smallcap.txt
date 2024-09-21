@@ -1,0 +1,91 @@
+﻿Kei Industries Ltd.	Capital Goods	3.12%	325.43 Crs	2.70%	2.88%	2.10%
+Bharat Electronics Ltd.	Capital Goods	2.94%	306.19 Crs	2.06%	1.33%	1.86%
+Kaynes Technology India Ltd.	Capital Goods	2.88%	299.94 Crs	1.79%	1.20%	--
+Multi Commodity Exchange Of India Ltd.	Services	2.59%	270.54 Crs	1.62%	1.77%	1.60%
+Titagarh Railsystems Ltd.	Automobile	2.49%	259.43 Crs	1.63%	--	--
+Century Textiles & Industries Ltd.	Consumer Staples	1.89%	197.27 Crs	1.40%	1.15%	1.92%
+Equitas Small Finance Bank Ltd.	Financial	1.86%	193.59 Crs	2.51%	2.09%	--
+Central Depository Services (India) Ltd.	Financial	1.63%	169.81 Crs	0.28%	0.30%	0.50%
+V-Guard Industries Ltd.	Consumer Discretionary	1.57%	164.18 Crs	1.53%	1.58%	1.51%
+Bharat Dynamics Ltd.	Capital Goods	1.54%	160.88 Crs	--	--	--
+Anand Rathi Wealth Ltd.	Financial	1.53%	160.08 Crs	0.67%	0.65%	0.73%
+Sobha Ltd.	Construction	1.48%	154.46 Crs	0.41%	0.39%	0.73%
+Cera Sanitaryware Ltd.	Materials	1.48%	153.85 Crs	2.33%	2.33%	2.52%
+Karur Vysya Bank Ltd.	Financial	1.47%	153.46 Crs	--	--	--
+PNC Infratech Ltd.	Construction	1.42%	147.98 Crs	1.55%	1.66%	1.50%
+Bikaji Foods International Ltd.	Consumer Staples	1.36%	141.35 Crs	1.56%	1.34%	--
+The Great Eastern Shipping Company Ltd.	Energy	1.36%	141.69 Crs	1.29%	1.45%	1.60%
+JB Chemicals & Pharmaceuticals Ltd.	Healthcare	1.36%	141.35 Crs	1.38%	1.53%	0.81%
+Sun Pharmaceutical Industries Ltd.	Healthcare	1.33%	138.68 Crs	1.52%	--	--
+Can Fin Homes Ltd.	Financial	1.29%	135.01 Crs	1.90%	1.92%	1.85%
+City Union Bank Ltd.	Financial	1.25%	130.02 Crs	1.51%	2.09%	2.94%
+Schaeffler India Ltd.	Capital Goods	1.25%	130.47 Crs	1.34%	1.56%	2.09%
+CreditAccess Grameen Ltd.	Financial	1.23%	128.01 Crs	1.77%	1.52%	1.72%
+E.I.D. - Parry (India) Ltd.	Consumer Staples	1.22%	127.66 Crs	1.11%	1.42%	1.68%
+Ajanta Pharma Ltd.	Healthcare	1.22%	127.62 Crs	0.95%	0.80%	--
+Cochin Shipyard Ltd.	Capital Goods	1.2%	125.29 Crs	--	--	--
+Brigade Enterprises Ltd.	Construction	1.2%	125.42 Crs	--	--	--
+Computer Age Management Services Ltd.	Services	1.19%	123.84 Crs	0.66%	0.75%	1.10%
+National Aluminium Company Ltd.	Metals & Mining	1.19%	123.81 Crs	0.86%	0.98%	0.57%
+BSE Ltd.	Services	1.17%	122.49 Crs	--	0.19%	0.49%
+Cyient Ltd.	Technology	1.16%	121.15 Crs	--	--	--
+The Indian Hotels Company Ltd.	Services	1.15%	119.81 Crs	1.45%	1.62%	2.02%
+Ultratech Cement Ltd.	Materials	1.14%	118.83 Crs	1.67%	1.98%	1.46%
+JK Lakshmi Cement Ltd.	Materials	1.13%	117.35 Crs	1.22%	1.59%	--
+KEC International Ltd.	Capital Goods	1.13%	117.77 Crs	1.97%	1.68%	1.58%
+Indian Bank	Financial	1.11%	115.57 Crs	1.40%	1.70%	1.81%
+Reliance Industries Ltd.	Energy	1.1%	114.43 Crs	1.43%	1.10%	--
+Max Healthcare Institute Ltd.	Healthcare	1.04%	108.72 Crs	1.30%	1.31%	1.61%
+Sonata Software Ltd.	Technology	1.02%	106.81 Crs	--	--	--
+Westlife Foodworld Ltd.	Services	1.02%	106.42 Crs	1.68%	1.79%	1.42%
+Global Health Ltd.	Healthcare	1.01%	105.33 Crs	1.09%	0.94%	--
+Power Finance Corporation Ltd.	Financial	1.01%	105.42 Crs	--	--	--
+Triveni Turbine Ltd.	Construction	1.01%	105.62 Crs	--	--	--
+NTPC Ltd.	Energy	1.01%	105.67 Crs	--	--	--
+Suven Pharmaceuticals Ltd.	Healthcare	0.99%	103.46 Crs	1.07%	1.33%	1.26%
+Cholamandalam Financial Holdings Ltd.	Financial	0.98%	102.35 Crs	1.12%	--	--
+Bajaj Finance Ltd.	Financial	0.96%	100.13 Crs	1.53%	1.43%	1.41%
+Ahluwalia Contracts (India) Ltd.	Construction	0.95%	98.64 Crs	0.69%	0.64%	0.73%
+LTIMindtree Ltd.	Technology	0.94%	98.2 Crs	1.02%	1.20%	--
+CIE Automotive India Ltd.	Metals & Mining	0.94%	97.71 Crs	1.15%	--	--
+RHI Magnesita India Ltd.	Capital Goods	0.93%	97.36 Crs	0.97%	1.26%	1.41%
+Ratnamani Metals & Tubes Ltd.	Metals & Mining	0.9%	94.05 Crs	--	--	--
+ICRA Ltd.	Services	0.9%	94.1 Crs	1.21%	1.32%	1.55%
+KNR Constructions Ltd.	Construction	0.9%	94.23 Crs	1.03%	1.30%	1.51%
+ITC Ltd.	Consumer Staples	0.88%	91.69 Crs	1.40%	0.78%	--
+Prudent Corporate Advisory Services Ltd.	Financial	0.86%	89.4 Crs	0.57%	0.56%	0.46%
+Timken India Ltd.	Capital Goods	0.83%	86.89 Crs	1.08%	1.20%	1.62%
+Rolex Rings Ltd	Capital Goods	0.81%	84.41 Crs	1.11%	1.20%	1.42%
+Abbott India Ltd.	Healthcare	0.81%	84.43 Crs	1.13%	1.37%	1.47%
+Mold-Tek Packaging Ltd.	Materials	0.8%	82.99 Crs	1.19%	1.27%	1.52%
+Persistent Systems Ltd.	Technology	0.75%	77.71 Crs	1.20%	1.58%	1.66%
+EPL Ltd.	Materials	0.74%	76.88 Crs	1.18%	0.41%	0.48%
+Jyothy Labs Ltd.	Consumer Staples	0.74%	77.16 Crs	--	--	--
+PVR Inox Ltd.	Services	0.73%	75.86 Crs	1.51%	1.55%	1.01%
+Innova Captab Ltd.	Healthcare	0.73%	76.26 Crs	--	--	--
+Deepak Nitrite Ltd.	Chemicals	0.73%	75.64 Crs	0.87%	1.07%	1.63%
+VRL Logistics Ltd.	Services	0.73%	76.1 Crs	1.42%	1.59%	1.53%
+Rossari Biotech Ltd.	Chemicals	0.71%	73.61 Crs	1.14%	0.89%	--
+Metropolis Healthcare Ltd.	Healthcare	0.71%	74.46 Crs	--	--	--
+Latent View Analytics Ltd.	Technology	0.69%	72.48 Crs	--	--	--
+Home First Finance Company India Ltd.	Financial	0.68%	70.53 Crs	--	--	--
+VIP Industries Ltd.	Consumer Discretionary	0.67%	69.7 Crs	1.20%	1.55%	1.85%
+K.P.R. Mill Ltd.	Textiles	0.66%	69.35 Crs	0.81%	0.99%	1.22%
+Jyoti CNC Automation Ltd.	Capital Goods	0.66%	68.6 Crs	--	--	--
+Subros Ltd.	Automobile	0.64%	66.95 Crs	0.65%	0.62%	0.89%
+Birlasoft Ltd.	Technology	0.62%	65.18 Crs	--	--	--
+Piramal Pharma Ltd.	Healthcare	0.62%	64.62 Crs	--	--	--
+GMM Pfaudler Ltd.	Capital Goods	0.62%	65.07 Crs	--	--	--
+Go Fashion (India) Ltd.	Services	0.62%	64.7 Crs	0.87%	1.03%	--
+CESC Ltd.	Energy	0.61%	63.99 Crs	--	--	--
+V-Mart Retail Ltd.	Services	0.53%	55.3 Crs	0.84%	1.05%	0.87%
+Greenpanel Industries Ltd.	Materials	0.51%	53.58 Crs	0.82%	0.95%	1.09%
+Greenply Industries Ltd.	Materials	0.5%	52.42 Crs	0.49%	0.54%	0.73%
+Greenlam Industries Ltd.	Materials	0.46%	47.79 Crs	0.57%	0.44%	0.54%
+Vedant Fashions Ltd.	Services	0.44%	45.71 Crs	0.71%	0.92%	1.40%
+Hitachi Energy India Ltd.	Capital Goods	0.4%	41.66 Crs	--	--	--
+Angel One Ltd.	Financial	0.35%	36.93 Crs	0.58%	0.60%	1.05%
+Fine Organic Industries Ltd.	Chemicals	0.33%	34.18 Crs	0.49%	0.62%	0.89%
+CCL Products (India) Ltd.	Consumer Staples	0.27%	27.95 Crs	--	--	--
+NOCIL Ltd.	Materials	0.26%	27.48 Crs	0.67%	0.85%	1.30%
+Blue Star Ltd.	Consumer Discretionary	0.21%	22.17 Crs	--	--	--

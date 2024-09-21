@@ -1,0 +1,76 @@
+﻿Kirloskar Brothers Ltd.	Capital Goods	4.07%	80.06 Crs	4.98%	4.00%	2.40%
+GPT Infraprojects Ltd.	Construction	3.94%	77.37 Crs	1.07%	1.18%	1.15%
+PTC India Financial Services Ltd.	Financial	3.58%	70.41 Crs	--	--	--
+Reliance Industries Ltd.	Energy	3.48%	68.34 Crs	--	--	--
+Adani Ports and Special Economic Zone Ltd.	Services	3.28%	64.46 Crs	--	--	3.19%
+Larsen & Toubro Ltd.	Construction	3.23%	63.52 Crs	9.21%	8.32%	9.94%
+Ahluwalia Contracts (India) Ltd.	Construction	3.08%	60.43 Crs	3.86%	3.68%	3.26%
+Indus Towers Ltd.	Communication	2.92%	57.43 Crs	--	--	--
+H.G. Infra Engineering Ltd.	Construction	2.56%	50.31 Crs	3.48%	3.49%	3.25%
+Bharti Airtel Ltd.	Communication	2.34%	45.95 Crs	4.82%	5.05%	5.22%
+PNC Infratech Ltd.	Construction	2.27%	44.57 Crs	3.60%	3.56%	3.53%
+Ultratech Cement Ltd.	Materials	2.24%	44.04 Crs	5.66%	7.38%	7.95%
+Bharat Electronics Ltd.	Capital Goods	2.18%	42.85 Crs	4.69%	4.71%	4.22%
+KEC International Ltd.	Capital Goods	2.06%	40.46 Crs	--	--	--
+NTPC Ltd.	Energy	1.96%	38.51 Crs	1.10%	--	--
+Suzlon Energy Ltd.	Capital Goods	1.85%	36.28 Crs	--	--	--
+GAIL (India) Ltd.	Energy	1.84%	36.15 Crs	--	--	--
+Jindal Steel & Power Ltd.	Metals & Mining	1.81%	35.58 Crs	3.28%	3.94%	4.44%
+Torrent Power Ltd.	Energy	1.75%	34.35 Crs	4.17%	3.83%	3.46%
+ABB India Ltd.	Capital Goods	1.69%	33.26 Crs	4.42%	5.83%	3.99%
+Adani Energy Solutions Ltd.	Energy	1.65%	32.51 Crs	--	--	--
+Amara Raja Energy & Mobility Ltd	Capital Goods	1.51%	29.61 Crs	--	--	--
+NHPC Ltd.	Energy	1.45%	28.56 Crs	--	--	--
+Siemens Ltd.	Capital Goods	1.4%	27.57 Crs	--	--	--
+Tega Industries Ltd.	Metals & Mining	1.37%	26.84 Crs	--	--	--
+Jyoti CNC Automation Ltd.	Capital Goods	1.34%	26.42 Crs	--	--	--
+Minda Corporation Ltd.	Automobile	1.27%	25.04 Crs	--	--	--
+ISGEC Heavy Engineering Ltd.	Capital Goods	1.25%	24.62 Crs	1.07%	1.04%	0.81%
+3M India Ltd.	Diversified	1.2%	23.59 Crs	0.55%	--	--
+Sterling and Wilson Renewable Energy Ltd.	Capital Goods	1.2%	23.49 Crs	--	--	--
+JSW Energy Ltd.	Capital Goods	1.18%	23.14 Crs	--	--	--
+ITD Cementation India Ltd.	Construction	1.15%	22.6 Crs	2.93%	2.43%	2.01%
+Power Mech Projects Ltd.	Construction	1.04%	20.52 Crs	--	--	--
+Orient Cement Ltd.	Materials	1.01%	19.76 Crs	--	--	--
+Mishra Dhatu Nigam Ltd.	Metals & Mining	1.01%	19.79 Crs	--	--	--
+NCC Ltd.	Construction	1.0%	19.65 Crs	2.53%	2.19%	1.70%
+Ceigall India Ltd.	Construction	1.0%	19.75 Crs	--	--	--
+Bharti Hexacom Ltd.	Communication	0.98%	19.35 Crs	--	--	--
+Gujarat State Petronet Ltd.	Energy	0.98%	19.35 Crs	2.23%	2.48%	2.60%
+Interglobe Aviation Ltd.	Services	0.95%	18.6 Crs	1.02%	1.24%	--
+Carborundum Universal Ltd.	Metals & Mining	0.94%	18.41 Crs	2.45%	2.74%	2.26%
+JK Cement Ltd.	Materials	0.92%	18.02 Crs	3.92%	4.60%	4.49%
+Transport Corporation Of India Ltd.	Services	0.91%	17.98 Crs	3.48%	4.01%	5.75%
+Elecon Engineering Company Ltd.	Capital Goods	0.88%	17.3 Crs	--	--	--
+Gateway Distriparks Ltd.	Services	0.87%	17.17 Crs	1.53%	1.40%	1.48%
+IRB Infrastructure Developers Ltd.	Construction	0.8%	15.77 Crs	--	--	--
+CG Power and Industrial Solutions Ltd.	Capital Goods	0.78%	15.4 Crs	--	--	--
+ZF Commercial Vehicle Control Systems India Ltd.	Automobile	0.78%	15.27 Crs	--	--	--
+Swan Energy Ltd.	Construction	0.76%	14.99 Crs	--	--	--
+GPT Healthcare Ltd.	Healthcare	0.71%	13.92 Crs	--	--	--
+Fortis Healthcare Ltd.	Healthcare	0.7%	13.76 Crs	--	--	--
+Sona BLW Precision Forgings Ltd.	Automobile	0.66%	12.9 Crs	--	--	--
+Azad Engineering Ltd.	Capital Goods	0.66%	12.97 Crs	--	--	--
+Premier Energies Ltd.	Energy	0.63%	12.43 Crs	--	--	--
+INEOS Styrolution India Ltd.	Chemicals	0.58%	11.48 Crs	--	--	--
+Cummins India Ltd.	Capital Goods	0.57%	11.23 Crs	1.08%	1.36%	1.09%
+KNR Constructions Ltd.	Construction	0.54%	10.56 Crs	--	--	--
+Bharat Petroleum Corporation Ltd.	Energy	0.51%	9.96 Crs	--	--	--
+JSW Steel Ltd.	Metals & Mining	0.51%	10.02 Crs	--	--	--
+Vedanta Ltd.	Metals & Mining	0.51%	10.07 Crs	--	--	--
+PSP Projects Ltd.	Construction	0.5%	9.9 Crs	--	--	--
+Hitachi Energy India Ltd.	Capital Goods	0.46%	9 Crs	--	--	--
+Archean Chemical Industries Ltd.	Chemicals	0.45%	8.8 Crs	--	--	--
+Thermax Ltd.	Capital Goods	0.43%	8.5 Crs	4.46%	3.88%	3.88%
+Hi-Tech Pipes Ltd.	Metals & Mining	0.42%	8.3 Crs	--	--	--
+Texmaco Rail & Engineering Ltd.	Services	0.39%	7.67 Crs	--	--	--
+Juniper Hotels Ltd.	Services	0.39%	7.75 Crs	--	--	--
+Solar Industries India Ltd.	Chemicals	0.37%	7.24 Crs	--	--	--
+Delhivery Ltd.	Services	0.37%	7.27 Crs	--	--	--
+Grasim Industries Ltd.	Materials	0.34%	6.67 Crs	--	--	--
+Titagarh Wagons Ltd.	Automobile	0.24%	4.74 Crs	--	--	--
+Hindalco Industries Ltd.	Metals & Mining	0.23%	4.6 Crs	0.88%	0.83%	1.06%
+Bharti Airtel Ltd. - (Partly Paid up Equity Shares (Rights Issue))	Communication	0.19%	--	--	--	--
+TVS Supply Chain Solutions Ltd.	Others	0.14%	2.79 Crs	--	--	--
+Ambuja Cements Ltd.	Materials	0.13%	2.57 Crs	--	--	--
+Neogen Chemicals Ltd.	Chemicals	0.07%	1.33 Crs	--	--	--

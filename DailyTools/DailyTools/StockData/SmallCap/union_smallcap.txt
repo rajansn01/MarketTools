@@ -1,0 +1,76 @@
+﻿Blue Star Ltd.	Consumer Discretionary	2.33%	33.21 Crs	--	--	--
+Kirloskar Oil Engines Ltd.	Capital Goods	2.3%	32.83 Crs	--	--	--
+DOMS Industries Ltd.	Consumer Staples	2.23%	31.77 Crs	--	--	--
+Hitachi Energy India Ltd.	Capital Goods	2.21%	31.55 Crs	0.93%	0.97%	--
+Techno Electric & Engineering Company Ltd.	Capital Goods	2.16%	30.78 Crs	--	--	--
+KSB Ltd.	Capital Goods	2.13%	30.37 Crs	--	--	--
+CE Info Systems Ltd.	Technology	1.99%	28.32 Crs	2.88%	2.62%	1.53%
+SJS Enterprises Ltd.	Automobile	1.89%	26.94 Crs	--	--	--
+PNC Infratech Ltd.	Construction	1.87%	26.65 Crs	1.43%	1.45%	--
+Brigade Enterprises Ltd.	Construction	1.86%	26.51 Crs	--	--	--
+Nippon Life India Asset Management Ltd.	Financial	1.71%	24.43 Crs	1.67%	--	--
+Alembic Pharmaceuticals Ltd.	Healthcare	1.71%	24.37 Crs	--	--	--
+Kaynes Technology India Ltd.	Capital Goods	1.6%	22.79 Crs	--	--	--
+Gabriel India Ltd.	Automobile	1.57%	22.33 Crs	--	--	--
+Neogen Chemicals Ltd.	Chemicals	1.55%	22.02 Crs	2.60%	3.52%	2.86%
+Exide Industries Ltd.	Capital Goods	1.54%	21.95 Crs	--	--	--
+Quess Corp Ltd.	Financial	1.53%	21.75 Crs	--	--	--
+Electronics Mart India Ltd.	Services	1.52%	21.6 Crs	2.45%	1.45%	1.07%
+Bharat Dynamics Ltd.	Capital Goods	1.52%	21.69 Crs	--	--	--
+Carborundum Universal Ltd.	Metals & Mining	1.51%	21.57 Crs	1.63%	1.81%	1.96%
+Kei Industries Ltd.	Capital Goods	1.47%	20.93 Crs	--	--	--
+Ethos Ltd.	Services	1.47%	20.9 Crs	2.44%	2.58%	1.00%
+Thomas Cook (India) Ltd.	Services	1.46%	20.81 Crs	--	--	--
+Karur Vysya Bank Ltd.	Financial	1.45%	20.68 Crs	1.92%	--	--
+KFin Technologies Ltd.	Financial	1.44%	20.54 Crs	1.49%	1.11%	--
+Honasa Consumer Ltd.	Consumer Staples	1.43%	20.41 Crs	--	--	--
+Central Depository Services (India) Ltd.	Financial	1.42%	20.29 Crs	--	--	--
+Ahluwalia Contracts (India) Ltd.	Construction	1.4%	19.99 Crs	--	--	--
+Glenmark Life Sciences Ltd.	Healthcare	1.39%	19.83 Crs	1.62%	--	--
+Voltamp Transformers Ltd.	Capital Goods	1.38%	19.62 Crs	1.86%	--	--
+360 One Wam Ltd	Financial	1.36%	19.4 Crs	--	1.35%	1.00%
+Multi Commodity Exchange Of India Ltd.	Services	1.35%	19.2 Crs	--	0.40%	1.93%
+Gokaldas Exports Ltd.	Textiles	1.35%	19.29 Crs	1.40%	--	--
+Kalyan Jewellers India Ltd.	Consumer Discretionary	1.28%	18.21 Crs	--	--	--
+Data Patterns (India) Ltd.	Capital Goods	1.27%	18.15 Crs	1.42%	2.23%	2.38%
+Senco Gold Ltd.	Consumer Discretionary	1.25%	17.84 Crs	--	--	--
+Netweb Technologies India Ltd.	Technology	1.25%	17.84 Crs	--	--	--
+Finolex Industries Ltd.	Materials	1.23%	17.53 Crs	--	--	--
+National Aluminium Company Ltd.	Metals & Mining	1.23%	17.58 Crs	--	--	--
+Prestige Estates Projects Ltd.	Construction	1.22%	17.43 Crs	--	1.05%	--
+Aarti Industries Ltd.	Chemicals	1.19%	16.97 Crs	--	--	--
+Eureka Forbes Ltd.	Metals & Mining	1.14%	16.18 Crs	2.14%	1.81%	2.22%
+Dixon Technologies (India) Ltd.	Capital Goods	1.13%	16.12 Crs	1.61%	1.22%	1.71%
+GE T&D India Ltd.	Capital Goods	1.11%	15.83 Crs	--	--	--
+Krishna Institute of Medical Sciences Ltd	Healthcare	1.1%	15.71 Crs	2.25%	2.20%	3.22%
+Triveni Turbine Ltd.	Construction	1.06%	15.09 Crs	--	--	--
+Jindal Stainless Ltd.	Metals & Mining	1.05%	14.92 Crs	--	--	--
+Greenply Industries Ltd.	Materials	1.05%	15 Crs	--	--	--
+Arvind Smartspaces Ltd.	Construction	1.04%	14.81 Crs	--	--	--
+Sonata Software Ltd.	Technology	1.02%	14.47 Crs	2.56%	2.57%	--
+Cummins India Ltd.	Capital Goods	1.01%	14.38 Crs	--	--	--
+Apar Industries Ltd.	Diversified	1.01%	14.42 Crs	--	--	--
+JB Chemicals & Pharmaceuticals Ltd.	Healthcare	0.99%	14.08 Crs	2.98%	3.15%	2.88%
+Ami Organics Ltd.	Healthcare	0.99%	14.04 Crs	2.19%	2.54%	1.69%
+Wonderla Holidays Ltd.	Services	0.96%	13.65 Crs	--	--	--
+Sudarshan Chemical Industries Ltd.	Chemicals	0.95%	13.57 Crs	--	--	--
+The Karnataka Bank Ltd.	Financial	0.94%	13.36 Crs	--	--	--
+Concord Biotech Ltd.	Healthcare	0.88%	12.58 Crs	--	--	--
+TeamLease Services Ltd.	Services	0.87%	12.35 Crs	--	--	0.73%
+Home First Finance Company India Ltd.	Financial	0.86%	12.32 Crs	1.63%	0.90%	2.05%
+Indian Bank	Financial	0.81%	11.51 Crs	--	--	--
+Mrs. Bectors Food Specialities Ltd.	Consumer Staples	0.79%	11.23 Crs	--	--	--
+Rainbow Children's Medicare Ltd.	Healthcare	0.78%	11.1 Crs	2.31%	2.05%	--
+Sanofi India Ltd.	Healthcare	0.77%	11.01 Crs	--	--	--
+Spandana Sphoorty Financial Ltd.	Financial	0.76%	10.76 Crs	--	--	--
+Puravankara Ltd.	Construction	0.73%	10.45 Crs	--	--	--
+Equitas Small Finance Bank Ltd.	Financial	0.73%	10.38 Crs	1.91%	--	--
+Sumitomo Chemical India Ltd.	Chemicals	0.72%	10.21 Crs	1.32%	1.60%	0.59%
+Dhanuka Agritech Ltd.	Chemicals	0.71%	10.17 Crs	--	--	--
+Crompton Greaves Consumer Electricals Ltd.	Consumer Discretionary	0.7%	10 Crs	--	--	--
+Elantas Beck India Ltd.	Chemicals	0.6%	8.53 Crs	--	--	--
+Kewal Kiran Clothing Ltd.	Textiles	0.57%	8.15 Crs	1.00%	--	--
+Power Mech Projects Ltd.	Construction	0.57%	8.15 Crs	--	--	--
+Cyient Ltd.	Technology	0.55%	7.9 Crs	--	--	--
+KPIT Technologies Ltd.	Technology	0.47%	6.73 Crs	0.52%	--	1.87%
+Quick Heal Technologies Ltd.	Technology	0.43%	6.14 Crs	--	--	--

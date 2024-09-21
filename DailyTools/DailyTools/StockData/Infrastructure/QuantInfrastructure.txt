@@ -1,0 +1,18 @@
+﻿Reliance Industries Ltd.	Energy	9.73%	388.46 Crs	5.62%	9.98%	8.74%
+Larsen & Toubro Ltd.	Construction	9.31%	--	--	--	--
+Samvardhana Motherson International Ltd.	Automobile	7.83%	312.45 Crs	--	--	--
+Tata Power Company Ltd.	Energy	7.39%	294.73 Crs	--	--	--
+Life Insurance Corporation of India	Insurance	6.37%	254.05 Crs	--	--	2.31%
+ITC Ltd.	Consumer Staples	5.48%	174.18 Crs	--	--	--
+Adani Power Ltd.	Energy	4.83%	192.78 Crs	4.47%	--	--
+Kalyani Steels Ltd.	Metals & Mining	4.72%	188.26 Crs	--	--	--
+NCC Ltd.	Construction	4.7%	187.6 Crs	4.71%	3.94%	--
+Orient Cement Ltd.	Materials	3.14%	125.48 Crs	--	--	--
+Steel Authority Of India Ltd.	Metals & Mining	3.04%	121.38 Crs	--	--	--
+Mangalam Cement Ltd.	Materials	2.22%	88.7 Crs	--	--	--
+Swan Energy Ltd.	Construction	2.04%	81.29 Crs	--	--	--
+Bharat Bijlee Ltd.	Capital Goods	1.74%	69.42 Crs	2.37%	2.26%	--
+Om Infra Ltd.	Construction	1.7%	67.65 Crs	--	--	--
+Pix Transmissions Ltd.	Materials	1.55%	61.87 Crs	3.66%	--	--
+Orissa Minerals Development Company Ltd.	Metals & Mining	1.42%	56.56 Crs	3.76%	--	--
+Container Corporation Of India Ltd.	Services	0.36%	14.48 Crs	--	--	--
